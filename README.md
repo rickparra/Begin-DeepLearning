@@ -35,8 +35,7 @@ As imagens são normalizadas e os dados são reformatados para entrar na rede ne
 
 A rede neural convolucional é construída no Keras com as seguintes camadas:
 
-- Conv2D
-- MaxPooling2D
+- Dropout
 - Flatten
 - Dense
 
